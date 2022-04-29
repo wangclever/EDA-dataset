@@ -13,16 +13,16 @@ Through the field study, we totally selected EDA signals of eight subjects in a 
     2. Social experience (attraction_type: Culture Experience, Shopping)
 											 
 -'attraction_type': The types of attractions they belongs to, in four fields:
-Natural Scenery
-Experience with insects & animals
-Culture Experience
-Shopping
+  1. Natural Scenery
+  2. Experience with insects & animals
+  3. Culture Experience
+  4. Shopping
 
 - 'attraction_name': The names of attractions subjects visited.
 
 - 'weather': Real-time weather conditions during the travel, in two fields:
-Sunny
-Cloudy
+  1. Sunny
+  2. Cloudy
 
 - 'EDA': Raw sensor data from Empatica E4 expressed as microsiemens (μS) in 4Hz, while the initial time of the session  expressed as unix timestamp in UTC.
 
