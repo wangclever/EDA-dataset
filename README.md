@@ -17,11 +17,9 @@ The number of records for each subjects are shown in the following table. There 
 
 **Data format**
 
-- 'unix_time': The intitial time format expressed by Empatica E4.
+- 'time': Beijing time in milliseconds corresponding to the unix timestamp expressed by Empatica E4.
 
-- 'second_time': Beijing time in milliseconds corresponding to the unix timestamp.
-
-- 'tourism_experience':  tourism experiences which contains attraction attributes and individual activities., in two fields:<br/>
+- 'tourism_experience':  tourism experiences which contains attraction attributes and individual activities, in two fields:<br/>
         1. Natural experience (attraction_type: Natural Scenery, Experience with insects & animals)<br/>
         2. Social experience (attraction_type: Culture Experience, Shopping)
 											 
