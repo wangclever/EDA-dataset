@@ -1,11 +1,11 @@
-#Introduction
+Introduction
+====
 
-
-##**General information**
+**General information**
 
 Through the field study, we totally selected EDA signals of eight subjects in a five-days travel. And each of them were asked to wear Empatica E4 during the whole day.
 
-##**Data format**
+**Data format**
 
 - 'unix_time': The intitial time format expressed by Empatica E4.
 
