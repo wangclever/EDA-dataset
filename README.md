@@ -9,8 +9,8 @@ Through the field study, we totally selected EDA signals of eight subjects in a 
 - 'second_time': Beijing time in milliseconds corresponding to the unix timestamp.
 
 - 'tourism_experience':  tourism experiences which contains attraction attributes and individual activities., in two fields:
-    1. Natural experience (attraction_type: Natural Scenery, Experience with insects & animals)
-    2. Social experience (attraction_type: Culture Experience, Shopping)
+  1. Natural experience (attraction_type: Natural Scenery, Experience with insects & animals)
+  2. Social experience (attraction_type: Culture Experience, Shopping)
 											 
 -'attraction_type': The types of attractions they belongs to, in four fields:
   1. Natural Scenery
