@@ -11,21 +11,21 @@ Through the field study, we totally selected EDA signals of eight subjects in a 
 
 - 'second_time': Beijing time in milliseconds corresponding to the unix timestamp.
 
-- 'tourism_experience':  tourism experiences which contains attraction attributes and individual activities., in two fields:
-			1. Natural experience (attraction_type: Natural Scenery, Experience with insects & animals)
-			2. Social experience (attraction_type: Culture Experience, Shopping)
+- 'tourism_experience':  tourism experiences which contains attraction attributes and individual activities., in two fields:<br/>
+        1. Natural experience (attraction_type: Natural Scenery, Experience with insects & animals)<br/>
+        2. Social experience (attraction_type: Culture Experience, Shopping)
 											 
--'attraction_type': The types of attractions they belongs to, in four fields:
-  1. Natural Scenery
-  2. Experience with insects & animals
-  3. Culture Experience
-  4. Shopping
+- 'attraction_type': The types of attractions they belongs to, in four fields:<br/>
+        1. Natural Scenery<br/>
+        2. Experience with insects & animals<br/>
+        3. Culture Experience<br/>
+        4. Shopping
 
 - 'attraction_name': The names of attractions subjects visited.
 
-- 'weather': Real-time weather conditions during the travel, in two fields:
-  1. Sunny
-  2. Cloudy
+- 'weather': Real-time weather conditions during the travel, in two fields:<br/>
+        1. Sunny<br/>
+        2. Cloudy
 
 - 'EDA': Raw sensor data from Empatica E4 expressed as microsiemens (μS) in 4Hz, while the initial time of the session  expressed as unix timestamp in UTC.
 
