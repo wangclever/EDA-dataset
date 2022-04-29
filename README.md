@@ -17,26 +17,26 @@ The number of records for each subjects are shown in the following table. There 
 
 **Data format**
 
-- 'time': Beijing time in milliseconds corresponding to the unix timestamp expressed by Empatica E4.
+- 'date': The number of day in the field study (from 1 to 5).
 
-- 'tourism_experience':  tourism experiences which contains attraction attributes and individual activities, in two fields:<br/>
-        1. Natural experience (attraction_type: Natural Scenery, Experience with insects & animals)<br/>
-        2. Social experience (attraction_type: Culture Experience, Shopping)
+- 'time': Beijing time in milliseconds corresponding to the Unix timestamp expressed by Empatica E4.
+
+- 'experience': tourism experiences which contains attraction attributes and individual activities, in two fields:<br/>
+        1. Natural experience (attra_type: Natural Scenery, Experience with insects & animals)<br/>
+        2. Social experience (attra_type: Culture Experience, Shopping)
 											 
-- 'attraction_type': The types of attractions they belongs to, in four fields:<br/>
+- 'attra_type': The types of attractions they belongs to, in four fields:<br/>
         1. Natural Scenery<br/>
         2. Experience with insects & animals<br/>
         3. Culture Experience<br/>
         4. Shopping
 
-- 'attraction_name': The names of attractions subjects visited.
+- 'attra_name': The names of attractions subjects visited.
 
 - 'weather': Real-time weather conditions during the travel, in two fields:<br/>
         1. Sunny<br/>
         2. Cloudy
 
-- 'EDA': Raw sensor data from Empatica E4 expressed as microsiemens (μS) in 4Hz, while the initial time of the session  expressed as unix timestamp in UTC.
+- 'EDA': Raw sensor data from Empatica E4 expressed as microsiemens (μS) in 4Hz, while the initial time of the session  expressed as Unix timestamp in UTC.
 
 - 'ID': The acronym of eight subjects
-
-- 'date': The number of days in the field study (from 1 to 5).
