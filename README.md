@@ -4,11 +4,11 @@ Through the field study, we totally selected EDA signals of eight subjects in a 
 
 **Data format**
 
--'unix_time': The intitial time format expressed by Empatica E4.
+- 'unix_time': The intitial time format expressed by Empatica E4.
 
--'second_time': Beijing time in milliseconds corresponding to the unix timestamp.
+- 'second_time': Beijing time in milliseconds corresponding to the unix timestamp.
 
--'tourism_experience':  tourism experiences which contains attraction attributes and individual activities., in two fields:
+- 'tourism_experience':  tourism experiences which contains attraction attributes and individual activities., in two fields:
 						Natural experience (attraction_type: Natural Scenery, Experience with insects & animals)
 						Social experience (attraction_type: Culture Experience, Shopping)
 											 
@@ -18,14 +18,14 @@ Experience with insects & animals
 Culture Experience
 Shopping
 
--'attraction_name': The names of attractions subjects visited.
+- 'attraction_name': The names of attractions subjects visited.
 
--'weather': Real-time weather conditions during the travel, in two fields:
+- 'weather': Real-time weather conditions during the travel, in two fields:
 Sunny
 Cloudy
 
--'EDA': Raw sensor data from Empatica E4 expressed as microsiemens (μS) in 4Hz, while the initial time of the session  expressed as unix timestamp in UTC.
+- 'EDA': Raw sensor data from Empatica E4 expressed as microsiemens (μS) in 4Hz, while the initial time of the session  expressed as unix timestamp in UTC.
 
--'ID': The acronym of eight subjects
+- 'ID': The acronym of eight subjects
 
--'date': The number of days in the field study (from 1 to 5).
+- 'date': The number of days in the field study (from 1 to 5).
