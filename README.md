@@ -3,7 +3,7 @@ Description of example data in paper 'Emotional fluctuations under different tou
 
 **1. General information**
 
-Through a field study, we captured EDA signals of eight participants by Empatica E4 during a five-days travel. Totally, the raw EDA data records are 659931. After great efforts of data cleaning, which includes Butterworth filtering, down-sampling and so on, the final cleaned data set consists of 8566 records. To help the review process, we provide examples of data we used in paper **'Emotional fluctuations under different tourism experiences: An exploratory electrodermal activity analysis'**. 
+Through a field study, we captured EDA signals of eight participants by Empatica E4 during a five-days travel. Totally, the raw EDA data records are 6559931. After great efforts of data cleaning, which includes Butterworth filtering, down-sampling and so on, the final cleaned data set consists of 8566 records. To help the review process, we provide examples of data we used in paper **'Emotional fluctuations under different tourism experiences: An exploratory electrodermal activity analysis'**. 
 
 **2. Data structure**
  
