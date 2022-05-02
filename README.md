@@ -7,11 +7,11 @@ Through a field study, we captured EDA signals of eight participants by Empatica
 
 **2. Data structure**
  
-The data set is organised with two example data files: raw_data.xlsx and cleaned_data.xlsx. Both are from the same participants and in the same period.
+The data set is organised with two example data: raw data set and cleaned data set. Both are from the same participants and in the same period.
 
-2.1. raw_data.xslx
+2.1. raw data set
 
-raw_data file was sampled in 4Hz by Empatica E4.
+Which is sampled in 4Hz by Empatica E4.
     
 - 'date': The number of days in the field study (from 1 to 5).
     
@@ -19,9 +19,9 @@ raw_data file was sampled in 4Hz by Empatica E4.
     
 - 'EDA': Raw sensor data from Empatica E4 expressed as microsiemens (μS) in 4Hz, while the initial time of the session expressed as Unix timestamp in UTC.
     
-2.2. cleaned_data.xlsx
+2.2. cleaned data set
     
-cleaned_data file is obtained after data cleaning and merged with manually recorded information corresponding to participants' visiting time. 
+Which is obtained after data cleaning and merged with manually recorded information corresponding to participants' visiting time. 
     
 - 'date': The number of days in the field study (from 1 to 5).
     
