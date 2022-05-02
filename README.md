@@ -34,10 +34,10 @@ Which is obtained after data cleaning and merged with manually recorded informat
 
 - 'attra_type': Attraction types, in four fields:
 
-> - Natural scenery
-> - Visiting insects & animals
-> - Culture scenery
-> - Shopping
+> - Natural scenery.
+> - Visiting insects & animals.
+> - Culture scenery.
+> - Shopping.
 
 - 'attra_name': Records of attraction names that participants visited at different times.
 
