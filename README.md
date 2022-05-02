@@ -41,9 +41,6 @@ Which is obtained after data cleaning and merged with manually recorded informat
 
 - 'attra_name': Records of attraction names that participants visited in different time.
 
-- 'weather': Records of real-time weather conditions during the travel, in two types:
-
-> - Sunny
-> - Cloudy
+- 'weather': Records of real-time weather conditions during the travel.
 
 - 'emotion': Data from raw EDA signals that has been cleaned and pre-processed.
