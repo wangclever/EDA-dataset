@@ -19,7 +19,7 @@ The samples of raw data set and cleaned data set are both from the same particip
     
 2.2. Cleaned data set
 
-The cleaned data set contains manual records such as experience, and attra_types. 
+The cleaned data set contains pre-processed EDA data as emotion with time-aligned tourism experiences,attraction types, attraction names, and weather. 
     
 - 'date': Date numbers in the field study (from 1 to 5).
     
