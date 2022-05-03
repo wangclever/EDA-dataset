@@ -37,7 +37,7 @@ The cleaned data set contains manual records such as experience, and attra_types
 > - Culture scenery
 > - Shopping
 
-- 'attra_name': Tourism attraction names that participants visited at different times.
+- 'attra_name': Tourism attraction names.
 
 - 'weather': Real-time weather conditions during the travel.
 
