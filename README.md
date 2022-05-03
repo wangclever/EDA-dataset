@@ -3,7 +3,7 @@ Data description for the paper 'Emotional fluctuations under different tourism e
 
 **1. General information**
 
-Through a field study, we captured the EDA signals of eight participants by Empatica E4 during a five-day trip. Totally, the raw EDA data records are 6559931. After great efforts of data cleaning, Butterworth filtering, normalization, and feature extraction, the final cleaned data set consists of 8566 records. To help the review process, we provide the data structures and samples of our raw data set and cleaned data as follows. 
+Through a field study, we captured the EDA signals of eight participants by Empatica E4 during a five-day trip. Totally, the raw EDA data records are 6559931. After great efforts of data cleaning, Butterworth filtering, normalization, and feature extraction, the final cleaned data set consists of 8566 records. To help the review process, we provide the data structures and samples of our raw data set and cleaned data set as follows. 
 
 **2. Data structure**
 
@@ -25,10 +25,10 @@ The cleaned data set contains manual records such as experience, and attra_types
     
 - 'new_time': Recoded time in minutes.
     
-- 'experience': Tourism experiences grouped by tourism attractions and tourists' activities, in two values:
+- 'experience': Tourism experiences, in two values:
     
-> - Natural experience (includes natural scenery, visiting insects & animals)
-> - Social experience (includes culture scenery, shopping)
+> - Natural experience (includes natural scenery, and visiting insects & animals)
+> - Social experience (includes culture scenery, and shopping)
 
 - 'attra_type': Tourism attraction types, in four values:
 
